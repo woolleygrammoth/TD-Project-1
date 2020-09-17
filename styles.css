@@ -69,8 +69,8 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
-  transition: all .5s;
+  border: 5px solid cyan;
+  transition: background 1s linear;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
